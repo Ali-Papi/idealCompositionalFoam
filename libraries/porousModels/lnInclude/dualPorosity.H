@@ -1,0 +1,1 @@
+../porousMediumModels/dualPorosity/dualPorosity.H
