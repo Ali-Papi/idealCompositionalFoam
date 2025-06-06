@@ -64,6 +64,14 @@ It is based on the OpenFOAM environment and therefore benefits from its multiple
 
 ---
 
+## 🧪 Test Case Documentation
+
+An individual test case can be found in the following folder:
+
+- 📄 CO2 injection into a water-saturated core model
+  ↳ [View Markdown](tutorials/idealCompositionalFoam-tutorials/coreInjection/co2InjectionCore/)
+
+---
 How to cite
 ---------------
 
