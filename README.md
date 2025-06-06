@@ -1,7 +1,7 @@
 
 # 📌 idealCompositionalFoam Repository Documentation
 
-[![DOI]](https://events.interpore.org/event/56/attachments/1242/2271/InterPore2025%20Book%20of%20Abstracts.pdf#page=987)
+[![DOI](https://img.shields.io/badge/DOI-987-blue)](https://events.interpore.org/event/56/attachments/1242/2271/InterPore2025%20Book%20of%20Abstracts.pdf#page=987)
 
 # idealCompositionalFoam for OpenFOAM
 About
